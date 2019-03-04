@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/addition_easy.unity
+  isLoaded: 1
+  isActive: 1

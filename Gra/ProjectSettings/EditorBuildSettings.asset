@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Menu_Scene.unity
+    guid: b103c60557807594085ad521bf7b5c6e
+  - enabled: 1
+    path: Assets/Scene/addition_easy.unity
+    guid: c534a719a62c60f45bd3bd3c754a41e1
+  - enabled: 1
+    path: Assets/Scene/addition_medium.unity
+    guid: acab4797d97f17e4f8034475270185cc
+  - enabled: 1
+    path: Assets/Scene/addition_hard.unity
+    guid: 34bf0a329210cce4cb43c9e28d051f61
+  - enabled: 1
+    path: Assets/Scene/subtraction_easy.unity
+    guid: 16fa3bdc5c604504a9104f657452225d
+  - enabled: 1
+    path: Assets/Scene/subtraction_medium.unity
+    guid: 1f3b3a8c00611364f85ab2a9abc9cfaa
+  - enabled: 1
+    path: Assets/Scene/subtraction_hard.unity
+    guid: a903781ecc08a1a4ca33cb46d4093997
+  - enabled: 1
+    path: Assets/Scene/multiplication.unity
+    guid: 2a85f39916896664d8d86c979f787cfa
+  - enabled: 1
+    path: Assets/Scene/division.unity
+    guid: bf1ca2c34f2a4a643930a81a9c450802
+  m_configObjects: {}
